@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     
     <platforms>
         <windows>
-            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.3/LaTunaRadio.exe</url>
+            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.4/LaTunaRadio-1.0.4.exe</url>
         </windows>
         <mac>
-            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.3/LaTunaRadio.dmg</url>
+            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.4/LaTunaRadio.dmg</url>
         </mac>
         <linux>
-            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.3/LaTunaRadio.deb</url>
+            <url>https://github.com/devcod/LaTunaRadio/releases/download/v1.0.4/la-tuna-radio_1.0.4_amd64.deb</url>
         </linux>
     </platforms>
     
-    <changelog>Actualización multiplataforma oficial v1.0.3</changelog>
+    <changelog>Actualización multiplataforma oficial v1.0.4</changelog>
 </update>
